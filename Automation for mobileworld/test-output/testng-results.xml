@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-19T12:55:07 IST" name="Default suite" finished-at="2022-09-19T12:55:21 IST" duration-ms="14320">
+    <groups>
+    </groups>
+    <test started-at="2022-09-19T12:55:07 IST" name="Default test" finished-at="2022-09-19T12:55:21 IST" duration-ms="14320">
+      <class name="signuppom">
+        <test-method signature="signup1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:signuppom@3fb1549b]" started-at="2022-09-19T12:55:07 IST" name="signup1" data-provider="datas" finished-at="2022-09-19T12:55:15 IST" duration-ms="8340" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[siva]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pradhosh]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[siva@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[siva123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[06/10/1999]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1234567890]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[hi guys this is a moblieworld page!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup1 -->
+        <test-method signature="signup1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:signuppom@3fb1549b]" started-at="2022-09-19T12:55:15 IST" name="signup1" data-provider="datas" finished-at="2022-09-19T12:55:21 IST" duration-ms="5936" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[me]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[me]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[siva@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[siva123456789pradhosh]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[06/10/1999]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[12345678901234567890]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[hi guys this is a moblieworld page]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup1 -->
+      </class> <!-- signuppom -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
